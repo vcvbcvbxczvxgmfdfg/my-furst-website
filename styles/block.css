@@ -1,4 +1,14 @@
 div{
     background-color: chartreuse;
     padding:20%;
+    margin-bottom: 10%;
+
+    margin-top: 15%;
+    margin-left: 20%;
+}
+
+.gi,.rf {
+    background-color: rgb(235, 10, 66);
+    border-radius: 20%;
+    box-shadow: 400;
 }
